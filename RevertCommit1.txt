@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 C
 D
 
+=======
+X
+Y
+>>>>>>> remotes/origin/master
